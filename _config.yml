@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Jibran, Punit and Momin                                
+your_name                                 : Jibran, Momin and Punit                                
 your_link                                 :                      
 your_city                                 : Calgary                                
 email_address                             : info@campusfire.ca
@@ -35,11 +35,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Connect with campus community
+  - title                                 : Get to know the UCalgary community!
     description                           : Designed for UCalgary by UCalgary students.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Communicate with peers easily
+  - title                                 : Communicate with peers seamlessly!
     description                           : Chat with fellow university mates on the ONLY app made exclusively for UCalgary students.
     fontawesome_icon_name                 : mobile
 
