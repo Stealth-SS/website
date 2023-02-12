@@ -41,7 +41,7 @@ We take the security of your personal information very seriously. We have implem
 
 <br>
 
-## Children's Privacy
+### Children's Privacy
 
 CampusFire is intended for users who are at least 18 years old. We do not knowingly collect personal information from children under the age of 18. If we become aware that we have collected personal information from a child under the age of 18, we will take steps to delete the information as soon as possible.
 
