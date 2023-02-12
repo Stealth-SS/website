@@ -12,16 +12,16 @@ February 11, 2023
 # Privacy Policy
 At CampusFire, we are committed to protecting the privacy of our users. This privacy policy applies to all information collected by CampusFire through our website and mobile app.
 
-# Personal Information Collected
+### Personal Information Collected
 
 We collect certain personal information from our users in order to provide them with the best possible experience on CampusFire. This information may include:
 
-Name
-Email address
-Age
-Gender
-Sexual orientation
-Location
+Name,
+Email address,
+Age,
+Gender,
+Sexual orientation,
+Location,
 Profile picture
 
 We may also collect certain information about your device, such as your IP address and device ID, in order to provide the app's functionality and improve our services.
