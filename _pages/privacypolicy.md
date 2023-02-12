@@ -7,6 +7,8 @@ include_in_header: false
 **Last updated**  
 February 11, 2023
 
+
+
 # Privacy Policy
 At CampusFire, we are committed to protecting the privacy of our users. This privacy policy applies to all information collected by CampusFire through our website and mobile app.
 
@@ -38,8 +40,6 @@ Security of Personal Information
 
 We take the security of your personal information very seriously. We have implemented appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, or destruction.
 
-
-<br>
 
 ### Children's Privacy
 
