@@ -13,7 +13,7 @@ contact_us                                :                                     
 app_icon                                  : assets/appicon.png                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : CampusFire                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : An app designed to bring the University of Calgary community together. Coming Soon! Join the wait list now!
+app_description                           : An app designed to bring the University of Calgary community together. Coming Soon! <a href="www.campusfire.ca/wait_list">Join the wait list now!</a>
 
 enable_smart_app_banner                   : true                                               # Set to true to show a smart app banner at top of page on mobile devices.
 

@@ -51,4 +51,4 @@ We may update this privacy policy from time to time in order to reflect changes 
 
 ### Have any questions? 
 
-If you have any questions about this privacy policy, please contact us by email at info@campusfire.ca .
+If you have any questions about this privacy policy, please contact us by email at [info@campusfire.ca](mailto:info@campusfire.ca) .
