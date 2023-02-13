@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Us
-include_in_header: true
+include_in_header: false
 ---
 
 # Would you like to work with us?

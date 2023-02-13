@@ -29,14 +29,14 @@ We may also collect certain information about your device, such as your IP addre
 
 **Use of Personal Information:** 
 
-The personal information we collect from our users is used to provide the app's core functionality, such as connecting users with potential matches and facilitating communication between users. We may also use this information to improve our services and provide personalized recommendations.
+The personal information we collect from our users is used to provide the app's core functionality, such as connecting users with each other and facilitating communication between users. We may also use this information to improve our services and provide personalized recommendations.
 
 We will never share your personal information with third parties without your explicit consent, except in the following cases:
 
-In response to a subpoena or other legal process
-To protect the rights, property, or safety of CampusFire, our users, or the public
-In the event that CampusFire is acquired by or merged with another company
-Security of Personal Information
+In response to a subpoena or other legal process.\
+To protect the rights, property, or safety of CampusFire, our users, or the public.\
+In the event that CampusFire is acquired by or merged with another company.\
+Security of Personal Information.\
 
 We take the security of your personal information very seriously. We have implemented appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, or destruction.
 
