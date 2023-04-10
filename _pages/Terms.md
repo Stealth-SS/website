@@ -18,7 +18,7 @@ Campusfire is exclusively for University of Calgary students. By creating an acc
 
 ### Acceptable Use
 
-Campusfire is intended for academic and social purposes only. You agree not to use the app for illegal, unethical, or harmful purposes. You also agree to use the app in a respectful and responsible manner, avoiding offensive or derogatory language or behavior.
+Campusfire is intended for academic and social purposes only. You agree not to use the app for illegal, unethical, or harmful purposes. You also agree to use the app in a respectful and responsible manner, avoiding offensive or derogatory language or behavior. If you notice or experience any abusive behaviour or see any harmful content, we request you to please report it to us with all the details and screenshots to: [info@campusfire.ca](mailto:info@campusfire.ca).
 
 ### Content Moderation
 
