@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-April 01, 2023
+April 10, 2023
 
 
 
@@ -33,10 +33,10 @@ The personal information we collect from our users is used to provide the app's 
 
 We will never share your personal information with third parties without your explicit consent, except in the following cases:
 
-In response to a subpoena or other legal process.\
-To protect the rights, property, or safety of CampusFire, our users, or the public.\
-In the event that CampusFire is acquired by or merged with another company.\
-Security of Personal Information.
+-> In response to a subpoena or other legal process.\
+-> To protect the rights, property, or safety of CampusFire, our users, or the public.\
+-> In the event that CampusFire is acquired by or merged with another company.\
+-> Security of Personal Information.
 
 We take the security of your personal information very seriously. We have implemented appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, or destruction.
 
