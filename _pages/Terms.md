@@ -24,6 +24,10 @@ Campusfire is intended for academic and social purposes only. You agree not to u
 
 The Campusfire team reserves the right to review and remove any content that is deemed inappropriate or violates the app's policies. This includes but is not limited to hate speech, bullying, harassment, or any content that is illegal or harmful.
 
+### Block a User or Report Content
+
+We have taken additional steps to ensure your privacy and security. If you feel a user has been showing inappropriate behaviour or find any content on the app to be abusive or inappropriate, we request you to please go to your profile, click on the profile icon at the bottom on the navigation bar and then on the profile page, click on the three dots which should have an option to block a user or report content. Once you click on that, you should be taken to your email and we request you to please describe the situation in detail. You can expect to hear back from us within 24 hours. You could also simply send us an email at: [info@campusfire.ca](mailto:info@campusfire.ca). 
+
 ### Privacy
 
 Campusfire values your privacy and personal information. All data collected by the app is used only for the purposes of operating and improving the app, and is not shared with third parties. You are responsible for safeguarding your personal information and choosing to share it at your own risk. Please check out our privacy policy page for further information.
