@@ -20,12 +20,12 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : University of Calgary students
+your_name                                 : Social Seekers
 your_link                                 :                      
 your_city                                 : Calgary                                
-email_address                             : info@campusfire.ca
+email_address                             : stealthapp007@gmail.com
 facebook_username                         :                                           
-instagram_username                        : campusfire.ca
+instagram_username                        : seeksocialcalgary
 twitter_username                          : 
 github_username                           : 
 youtube_username                          :
@@ -35,16 +35,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Get to know the UCalgary community!
-    description                           : Designed for UCalgary community by UCalgary students.
+  - title                                 : 
+    description                           : 
     fontawesome_icon_name                 : magic
     
-  - title                                 : Communicate with peers seamlessly!
-    description                           : Chat with fellow university mates on the ONLY app made exclusively for UCalgary students.
+  - title                                 : 
+    description                           : 
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Check who has the same interests as you!
-    description                           : An amazing way to connect and make friends with similar interests.
+  - title                                 :
+    description                           : 
     fontawesome_icon_name                 : play-circle
 
   - title                                 : # New Feature Title
